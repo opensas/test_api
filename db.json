@@ -9,1201 +9,330 @@
   "usuario": [
     {
       "usuario_id": 98,
-      "tipo_usuario_id": 3, "tipo_usuario_codigo": "Interno",
       "codigo": "TRABAJO\\GABALOS",
       "apellido": "Abalos de Achar", "nombres": "Graciela Lucila",
-      "descripcion": "",
-      "activo": 1,
-      "fecha_insert": "2010-09-04T00:00:00", "usuario_insert_id": 1,
-      "fecha_update": "2010-09-04T00:00:00", "usuario_update_id": 1,
-      "stamp": "AAAAAAAAIkA="
+      "activo": 1
     },
     {
       "usuario_id": 605,
-      "tipo_usuario_id": 3, "tipo_usuario_codigo": "Interno",
       "codigo": "TRABAJO\\BABECASSIS",
       "apellido": "ABECASSIS", "nombres": "BELEN",
-      "descripcion": "",
-      "activo": 1,
-      "fecha_insert": "2014-09-18T17:52:00", "usuario_insert_id": 183,
-      "fecha_update": "2014-09-18T17:52:00", "usuario_update_id": 183,
-      "stamp": "AAAAAAAAJDY="
+      "activo": 1
     },
     {
       "row_number": 3,
       "usuario_id": 174,
-      "tipo_usuario_id": 3, "tipo_usuario_codigo": "Interno",
       "codigo": "TRABAJO\\DABRAN",
       "apellido": "Abran", "nombres": "Diego Carlos",
-      "descripcion": "",
-      "activo": 1,
-      "fecha_insert": "2010-09-04T00:00:00", "usuario_insert_id": 1,
-      "fecha_update": "2010-09-04T00:00:00", "usuario_update_id": 1,
-      "stamp": "AAAAAAAAIow="
+      "activo": 1
     },
     {
       "row_number": 4,
       "usuario_id": 588,
-      "tipo_usuario_id": 3, "tipo_usuario_codigo": "Interno",
       "codigo": "TRABAJO\\GABRELIANO",
       "apellido": "ABRELIANO", "nombres": "Gabriela",
-      "descripcion": "",
-      "activo": 1,
-      "fecha_insert": "2014-03-14T13:06:00", "usuario_insert_id": 586,
-      "fecha_update": "2015-05-26T13:55:00", "usuario_update_id": 611,
-      "stamp": "AAAAAAAAJCU="
+      "activo": 1
     },
     {
       "row_number": 5,
       "usuario_id": 555,
-      "tipo_usuario_id": 3, "tipo_usuario_codigo": "Interno",
       "codigo": "TRABAJO\\CACIARES",
       "apellido": "ACIARES", "nombres": "Carina",
-      "descripcion": "",
-      "activo": 1,
-      "fecha_insert": "2012-12-04T16:22:00", "usuario_insert_id": 370,
-      "fecha_update": "2012-12-04T16:22:00", "usuario_update_id": 370,
-      "stamp": "AAAAAAAAJAQ="
+      "activo": 1
     },
     {
       "row_number": 6,
       "usuario_id": 312,
-      "tipo_usuario_id": 3, "tipo_usuario_codigo": "Interno",
       "codigo": "TRABAJO\\LARCHIMB",
       "apellido": "Acosta De Archimbal", "nombres": "Maria Liliana",
-      "descripcion": "",
-      "activo": 1,
-      "fecha_insert": "2010-08-06T16:26:00", "usuario_insert_id": 306,
-      "fecha_update": "2010-08-13T12:32:00", "usuario_update_id": 306,
-      "stamp": "AAAAAAAAIxM="
+      "activo": 1
     },
     {
       "row_number": 7,
       "usuario_id": 913,
-      "tipo_usuario_id": 3, "tipo_usuario_codigo": "Interno",
       "codigo": "TRABAJO\\LARCHIM",
       "apellido": "Acosta de Archimbal", "nombres": "María Liliana",
-      "descripcion": "",
-      "activo": 1,
-      "fecha_insert": "2017-08-09T19:16:00", "usuario_insert_id": 0,
-      "fecha_update": "2017-08-09T19:16:00", "usuario_update_id": 0,
-      "stamp": "AAAAAAAAJLo="
+      "activo": 1
     },
     {
       "row_number": 8,
       "usuario_id": 237,
-      "tipo_usuario_id": 3, "tipo_usuario_codigo": "Interno",
       "codigo": "TRABAJO\\AACOSTA",
       "apellido": "Acosta", "nombres": "Amilcar Arturo",
-      "descripcion": "",
-      "activo": 1,
-      "fecha_insert": "2010-09-04T00:00:00", "usuario_insert_id": 1,
-      "fecha_update": "2010-09-04T00:00:00", "usuario_update_id": 1,
-      "stamp": "AAAAAAAAIss="
+      "activo": 1
     },
     {
       "row_number": 9,
       "usuario_id": 230,
-      "tipo_usuario_id": 3, "tipo_usuario_codigo": "Interno",
       "codigo": "TRABAJO\\MACUÑA",
       "apellido": "Acuña", "nombres": "Maria Fernanda",
-      "descripcion": "",
-      "activo": 1,
-      "fecha_insert": "2010-09-04T00:00:00", "usuario_insert_id": 1,
-      "fecha_update": "2010-09-04T00:00:00", "usuario_update_id": 1,
-      "stamp": "AAAAAAAAIsQ="
+      "activo": 1
     },
     {
       "row_number": 10,
       "usuario_id": 252,
-      "tipo_usuario_id": 3, "tipo_usuario_codigo": "Interno",
       "codigo": "TRABAJO\\JADARO",
       "apellido": "Adaro", "nombres": "Javier Jose",
-      "descripcion": "",
-      "activo": 1,
-      "fecha_insert": "2010-09-04T00:00:00", "usuario_insert_id": 1,
-      "fecha_update": "2010-09-04T00:00:00", "usuario_update_id": 1,
-      "stamp": "AAAAAAAAIto="
+      "activo": 1
     },
     {
       "row_number": 11,
       "usuario_id": 80,
-      "tipo_usuario_id": 3, "tipo_usuario_codigo": "Interno",
       "codigo": "TRABAJO\\JAGIS",
       "apellido": "Agis", "nombres": "Julia Eugenia",
-      "descripcion": "",
-      "activo": 1,
-      "fecha_insert": "2010-09-04T00:00:00", "usuario_insert_id": 1,
-      "fecha_update": "2010-09-04T00:00:00", "usuario_update_id": 1,
-      "stamp": "AAAAAAAAIi4="
+      "activo": 1
     },
     {
       "row_number": 12,
       "usuario_id": 538,
-      "tipo_usuario_id": 3, "tipo_usuario_codigo": "Interno",
       "codigo": "TRABAJO\\MFAGUERO",
       "apellido": "Aguero Lavigne", "nombres": "María Florencia",
-      "descripcion": "",
-      "activo": 0,
-      "fecha_insert": "2012-09-03T15:31:00", "usuario_insert_id": 1,
-      "fecha_update": "2012-09-03T15:31:00", "usuario_update_id": 1,
-      "stamp": "AAAAAAAAI/I="
+      "activo": 0
     },
     {
       "row_number": 13,
       "usuario_id": 885,
-      "tipo_usuario_id": 3, "tipo_usuario_codigo": "Interno",
       "codigo": "TRABAJO\\GAAGUILAR",
       "apellido": "Aguilar", "nombres": "Gabriel",
-      "descripcion": "",
-      "activo": 1,
-      "fecha_insert": "2017-08-09T19:16:00", "usuario_insert_id": 0,
-      "fecha_update": "2017-08-09T19:16:00", "usuario_update_id": 0,
-      "stamp": "AAAAAAAAJJ4="
+      "activo": 1
     },
     {
       "row_number": 14,
       "usuario_id": 940,
-      "tipo_usuario_id": 3, "tipo_usuario_codigo": "Interno",
       "codigo": "TRABAJO\\MIAGUIRRE",
       "apellido": "Aguirre", "nombres": "María Isabel",
-      "descripcion": "",
-      "activo": 1,
-      "fecha_insert": "2017-08-09T19:16:00", "usuario_insert_id": 0,
-      "fecha_update": "2017-08-09T19:16:00", "usuario_update_id": 0,
-      "stamp": "AAAAAAAAJNU="
+      "activo": 1
     },
     {
       "row_number": 15,
       "usuario_id": 268,
-      "tipo_usuario_id": 3, "tipo_usuario_codigo": "Interno",
       "codigo": "TRABAJO\\PAGUIRRE",
       "apellido": "Aguirre", "nombres": "Patricia del Carmen",
-      "descripcion": "",
-      "activo": 1,
-      "fecha_insert": "2010-09-04T00:00:00", "usuario_insert_id": 1,
-      "fecha_update": "2010-09-04T00:00:00", "usuario_update_id": 1,
-      "stamp": "AAAAAAAAIuo="
+      "activo": 1
     },
     {
       "row_number": 16,
       "usuario_id": 926,
-      "tipo_usuario_id": 3, "tipo_usuario_codigo": "Interno",
       "codigo": "TRABAJO\\MAIRES",
       "apellido": "Aires", "nombres": "María Jimena",
-      "descripcion": "",
-      "activo": 1,
-      "fecha_insert": "2017-08-09T19:16:00", "usuario_insert_id": 0,
-      "fecha_update": "2017-08-09T19:16:00", "usuario_update_id": 0,
-      "stamp": "AAAAAAAAJMc="
+      "activo": 1
     },
     {
       "row_number": 17,
       "usuario_id": 137,
-      "tipo_usuario_id": 3, "tipo_usuario_codigo": "Interno",
       "codigo": "TRABAJO\\ARALANIZ",
       "apellido": "Alaniz", "nombres": "Ana Rosario",
-      "descripcion": "",
-      "activo": 1,
-      "fecha_insert": "2010-09-04T00:00:00", "usuario_insert_id": 1,
-      "fecha_update": "2010-09-04T00:00:00", "usuario_update_id": 1,
-      "stamp": "AAAAAAAAImc="
+      "activo": 1
     },
     {
       "row_number": 18,
       "usuario_id": 432,
-      "tipo_usuario_id": 3, "tipo_usuario_codigo": "Interno",
       "codigo": "TRABAJO\\MALBANESE",
       "apellido": "Albanese", "nombres": "Maria Laura",
-      "descripcion": "",
-      "activo": 1,
-      "fecha_insert": "2011-11-17T13:06:00", "usuario_insert_id": 1,
-      "fecha_update": "2011-11-17T13:06:00", "usuario_update_id": 1,
-      "stamp": "AAAAAAAAI4k="
+      "activo": 1
     },
     {
       "row_number": 19,
       "usuario_id": 169,
-      "tipo_usuario_id": 3, "tipo_usuario_codigo": "Interno",
       "codigo": "TRABAJO\\LALBARRACIN",
       "apellido": "Albarracín", "nombres": "Liliana",
-      "descripcion": "",
-      "activo": 1,
-      "fecha_insert": "2010-09-04T00:00:00", "usuario_insert_id": 1,
-      "fecha_update": "2010-09-04T00:00:00", "usuario_update_id": 1,
-      "stamp": "AAAAAAAAIoc="
+      "activo": 1
     },
     {
       "row_number": 20,
       "usuario_id": 927,
-      "tipo_usuario_id": 3, "tipo_usuario_codigo": "Interno",
       "codigo": "TRABAJO\\MALCANONI",
       "apellido": "Alcanoni", "nombres": "Marcelo Claudio",
-      "descripcion": "",
-      "activo": 1,
-      "fecha_insert": "2017-08-09T19:16:00", "usuario_insert_id": 0,
-      "fecha_update": "2017-08-09T19:16:00", "usuario_update_id": 0,
-      "stamp": "AAAAAAAAJMg="
+      "activo": 1
     },
     {
       "row_number": 21,
       "usuario_id": 552,
-      "tipo_usuario_id": 3, "tipo_usuario_codigo": "Interno",
       "codigo": "TRABAJO\\SALCHU",
       "apellido": "ALCHU", "nombres": "Santiago",
-      "descripcion": "",
-      "activo": 1,
-      "fecha_insert": "2012-11-06T16:23:00", "usuario_insert_id": 369,
-      "fecha_update": "2014-12-02T13:57:00", "usuario_update_id": 609,
-      "stamp": "AAAAAAAAJAE="
+      "activo": 1
     },
     {
       "row_number": 22,
       "usuario_id": 30,
-      "tipo_usuario_id": 3, "tipo_usuario_codigo": "Interno",
       "codigo": "TRABAJO\\MALCIBAR",
       "apellido": "Alcibar", "nombres": "Mónica",
-      "descripcion": "",
-      "activo": 1,
-      "fecha_insert": "2010-09-04T00:00:00", "usuario_insert_id": 1,
-      "fecha_update": "2010-09-04T00:00:00", "usuario_update_id": 1,
-      "stamp": "AAAAAAAAIfs="
+      "activo": 1
     },
     {
       "row_number": 23,
       "usuario_id": 222,
-      "tipo_usuario_id": 3, "tipo_usuario_codigo": "Interno",
       "codigo": "TRABAJO\\MJALFONSO",
       "apellido": "Alfonso", "nombres": "Maria Jose",
-      "descripcion": "",
-      "activo": 1,
-      "fecha_insert": "2010-09-04T00:00:00", "usuario_insert_id": 1,
-      "fecha_update": "2010-09-04T00:00:00", "usuario_update_id": 1,
-      "stamp": "AAAAAAAAIrw="
+      "activo": 1
     },
     {
       "row_number": 24,
       "usuario_id": 440,
-      "tipo_usuario_id": 3, "tipo_usuario_codigo": "Interno",
       "codigo": "TRABAJO\\NALFONSO",
       "apellido": "Alfonso", "nombres": "Noelia Isabel",
-      "descripcion": "",
-      "activo": 1,
-      "fecha_insert": "2011-11-17T13:06:00", "usuario_insert_id": 1,
-      "fecha_update": "2011-11-17T13:06:00", "usuario_update_id": 1,
-      "stamp": "AAAAAAAAI5E="
+      "activo": 1
     },
     {
       "row_number": 25,
       "usuario_id": 870,
-      "tipo_usuario_id": 3, "tipo_usuario_codigo": "Interno",
       "codigo": "TRABAJO\\EALMADA",
       "apellido": "Almada", "nombres": "Edelveis del Rosario",
-      "descripcion": "",
-      "activo": 1,
-      "fecha_insert": "2017-08-09T19:16:00", "usuario_insert_id": 0,
-      "fecha_update": "2017-08-09T19:16:00", "usuario_update_id": 0,
-      "stamp": "AAAAAAAAJI8="
+      "activo": 1
     },
     {
       "row_number": 26,
       "usuario_id": 375,
-      "tipo_usuario_id": 3, "tipo_usuario_codigo": "Interno",
       "codigo": "TRABAJO\\EALONSO",
       "apellido": "ALONSO NAVARRO", "nombres": "Eva",
-      "descripcion": "",
-      "activo": 1,
-      "fecha_insert": "2010-09-10T17:17:00", "usuario_insert_id": 1,
-      "fecha_update": "2010-09-10T17:17:00", "usuario_update_id": 1,
-      "stamp": "AAAAAAAAI1E="
+      "activo": 1
     },
     {
       "row_number": 27,
       "usuario_id": 594,
-      "tipo_usuario_id": 3, "tipo_usuario_codigo": "Interno",
       "codigo": "TRABAJO\\MALONSO",
       "apellido": "ALONZO", "nombres": "Maria Laura",
-      "descripcion": "",
-      "activo": 1,
-      "fecha_insert": "2014-03-28T18:13:00", "usuario_insert_id": 368,
-      "fecha_update": "2014-03-28T18:13:00", "usuario_update_id": 368,
-      "stamp": "AAAAAAAAJCs="
+      "activo": 1
     },
     {
       "row_number": 28,
       "usuario_id": 906,
-      "tipo_usuario_id": 3, "tipo_usuario_codigo": "Interno",
       "codigo": "TRABAJO\\JALVARADO",
       "apellido": "Alvarado", "nombres": "Johanna",
-      "descripcion": "",
-      "activo": 1,
-      "fecha_insert": "2017-08-09T19:16:00", "usuario_insert_id": 0,
-      "fecha_update": "2017-08-09T19:16:00", "usuario_update_id": 0,
-      "stamp": "AAAAAAAAJLM="
+      "activo": 1
     },
     {
       "row_number": 29,
       "usuario_id": 459,
-      "tipo_usuario_id": 3, "tipo_usuario_codigo": "Interno",
       "codigo": "TRABAJO\\AALVAREZ",
       "apellido": "Alvarez", "nombres": "Ana Lucia",
-      "descripcion": "",
-      "activo": 0,
-      "fecha_insert": "2005-01-01T00:00:00", "usuario_insert_id": 1,
-      "fecha_update": "2005-01-01T00:00:00", "usuario_update_id": 4,
-      "stamp": "AAAAAAAAI6M="
+      "activo": 0
     },
     {
       "row_number": 30,
       "usuario_id": 368,
-      "tipo_usuario_id": 3, "tipo_usuario_codigo": "Interno",
       "codigo": "TRABAJO\\LOALVAREZ",
       "apellido": "ALVAREZ", "nombres": "Lucas Omar",
-      "descripcion": "",
-      "activo": 1,
-      "fecha_insert": "2010-08-27T18:15:00", "usuario_insert_id": 1,
-      "fecha_update": "2014-10-09T12:08:00", "usuario_update_id": 183,
-      "stamp": "AAAAAAAAI0o="
+      "activo": 1
     },
     {
       "row_number": 31,
       "usuario_id": 549,
-      "tipo_usuario_id": 3, "tipo_usuario_codigo": "Interno",
       "codigo": "TRABAJO\\FALZIEU",
       "apellido": "ALZIEU", "nombres": "Fernando Martin",
-      "descripcion": "",
-      "activo": 0,
-      "fecha_insert": "2012-10-23T12:19:00", "usuario_insert_id": 183,
-      "fecha_update": "2016-11-30T11:46:00", "usuario_update_id": 615,
-      "stamp": "AAAAAAAAI/0="
+      "activo": 0
     },
     {
       "row_number": 32,
       "usuario_id": 87,
-      "tipo_usuario_id": 3, "tipo_usuario_codigo": "Interno",
       "codigo": "TRABAJO\\AAMADINI",
       "apellido": "Amadini Sanchez", "nombres": "Andrés",
-      "descripcion": "",
-      "activo": 1,
-      "fecha_insert": "2010-09-04T00:00:00", "usuario_insert_id": 1,
-      "fecha_update": "2010-09-04T00:00:00", "usuario_update_id": 1,
-      "stamp": "AAAAAAAAIjU="
+      "activo": 1
     },
     {
       "row_number": 33,
       "usuario_id": 31,
-      "tipo_usuario_id": 3, "tipo_usuario_codigo": "Interno",
       "codigo": "TRABAJO\\LAMBESI",
       "apellido": "Ambesi", "nombres": "Leonardo Jesús",
-      "descripcion": "",
-      "activo": 1,
-      "fecha_insert": "2010-09-04T00:00:00", "usuario_insert_id": 1,
-      "fecha_update": "2010-09-04T00:00:00", "usuario_update_id": 1,
-      "stamp": "AAAAAAAAIfw="
+      "activo": 1
     },
     {
       "row_number": 34,
       "usuario_id": 290,
-      "tipo_usuario_id": 3, "tipo_usuario_codigo": "Interno",
       "codigo": "TRABAJO\\LAMICONE",
       "apellido": "AMICONE", "nombres": "Leonardo Javier",
-      "descripcion": "",
-      "activo": 0,
-      "fecha_insert": "2010-06-14T11:31:00", "usuario_insert_id": 281,
-      "fecha_update": "2012-01-09T13:37:00", "usuario_update_id": 183,
-      "stamp": "AAAAAAAAIwE="
+      "activo": 0
     },
     {
       "row_number": 35,
       "usuario_id": 314,
-      "tipo_usuario_id": 3, "tipo_usuario_codigo": "Interno",
       "codigo": "TRABAJO\\MAMIGONI",
       "apellido": "Amigoni", "nombres": "Marcela",
-      "descripcion": "",
-      "activo": 1,
-      "fecha_insert": "2010-08-06T16:27:00", "usuario_insert_id": 306,
-      "fecha_update": "2010-08-06T16:27:00", "usuario_update_id": 306,
-      "stamp": "AAAAAAAAIxU="
+      "activo": 1
     },
     {
       "row_number": 36,
       "usuario_id": 68,
-      "tipo_usuario_id": 3, "tipo_usuario_codigo": "Interno",
       "codigo": "TRABAJO\\CANDINO",
       "apellido": "Andino", "nombres": "Carlos Ernesto",
-      "descripcion": "",
-      "activo": 1,
-      "fecha_insert": "2010-09-04T00:00:00", "usuario_insert_id": 1,
-      "fecha_update": "2010-09-04T00:00:00", "usuario_update_id": 1,
-      "stamp": "AAAAAAAAIiI="
+      "activo": 1
     },
     {
       "row_number": 37,
       "usuario_id": 148,
-      "tipo_usuario_id": 3, "tipo_usuario_codigo": "Interno",
       "codigo": "TRABAJO\\RANDRADE",
       "apellido": "Andrade", "nombres": "Rosa Mandina",
-      "descripcion": "",
-      "activo": 1,
-      "fecha_insert": "2010-09-04T00:00:00", "usuario_insert_id": 1,
-      "fecha_update": "2010-09-04T00:00:00", "usuario_update_id": 1,
-      "stamp": "AAAAAAAAInI="
+      "activo": 1
     },
     {
       "row_number": 38,
       "usuario_id": 32,
-      "tipo_usuario_id": 3, "tipo_usuario_codigo": "Interno",
       "codigo": "TRABAJO\\VANDREO",
       "apellido": "Andreo", "nombres": "Adela Viviana",
-      "descripcion": "",
-      "activo": 1,
-      "fecha_insert": "2010-09-04T00:00:00", "usuario_insert_id": 1,
-      "fecha_update": "2010-09-04T00:00:00", "usuario_update_id": 1,
-      "stamp": "AAAAAAAAIf0="
+      "activo": 1
     },
     {
       "row_number": 39,
       "usuario_id": 591,
-      "tipo_usuario_id": 3, "tipo_usuario_codigo": "Interno",
       "codigo": "TRABAJO\\NANDREONI",
       "apellido": "ANDREONI", "nombres": "Nicolas",
-      "descripcion": "",
-      "activo": 1,
-      "fecha_insert": "2014-03-14T14:06:00", "usuario_insert_id": 368,
-      "fecha_update": "2015-05-26T15:01:00", "usuario_update_id": 615,
-      "stamp": "AAAAAAAAJCg="
+      "activo": 1
     },
     {
       "row_number": 40,
       "usuario_id": 655,
-      "tipo_usuario_id": 3, "tipo_usuario_codigo": "Interno",
       "codigo": "TRABAJO\\AANTEZANA",
       "apellido": "ANTEZANA", "nombres": "Agustina Antonella",
-      "descripcion": "",
-      "activo": 1,
-      "fecha_insert": "2016-12-23T10:32:00", "usuario_insert_id": 615,
-      "fecha_update": "2016-12-23T10:32:00", "usuario_update_id": 615,
-      "stamp": "AAAAAAAAJGI="
+      "activo": 1
     },
     {
       "row_number": 41,
       "usuario_id": 831,
-      "tipo_usuario_id": 3, "tipo_usuario_codigo": "Interno",
       "codigo": "TRABAJO\\AAPOLLONIO",
       "apellido": "Apollonio", "nombres": "Analía Alejandra",
-      "descripcion": "",
-      "activo": 1,
-      "fecha_insert": "2017-08-09T19:16:00", "usuario_insert_id": 0,
-      "fecha_update": "2017-08-09T19:16:00", "usuario_update_id": 0,
-      "stamp": "AAAAAAAAJGg="
+      "activo": 1
     },
     {
       "row_number": 42,
       "usuario_id": 487,
-      "tipo_usuario_id": 3, "tipo_usuario_codigo": "Interno",
       "codigo": "TRABAJO\\LARBELO",
       "apellido": "ARBELO GONZALEZ", "nombres": "Laura Cecilia",
-      "descripcion": "",
-      "activo": 0,
-      "fecha_insert": "2010-09-16T14:00:00", "usuario_insert_id": 112,
-      "fecha_update": "2012-05-09T12:33:00", "usuario_update_id": 419,
-      "stamp": "AAAAAAAAI78="
+      "activo": 0
     },
     {
       "row_number": 43,
       "usuario_id": 514,
-      "tipo_usuario_id": 3, "tipo_usuario_codigo": "Interno",
       "codigo": "TRABAJO\\SARBELO",
       "apellido": "Arbelo Gonzalez", "nombres": "Silvia Natalia",
-      "descripcion": "",
-      "activo": 1,
-      "fecha_insert": "2008-10-23T18:35:00", "usuario_insert_id": 99,
-      "fecha_update": "2012-01-12T14:32:00", "usuario_update_id": 281,
-      "stamp": "AAAAAAAAI9o="
+      "activo": 1
     },
     {
       "row_number": 44,
       "usuario_id": 118,
-      "tipo_usuario_id": 3, "tipo_usuario_codigo": "Interno",
       "codigo": "TRABAJO\\CARCANDO",
       "apellido": "Arcando", "nombres": "Cesira",
-      "descripcion": "",
-      "activo": 1,
-      "fecha_insert": "2010-09-04T00:00:00", "usuario_insert_id": 1,
-      "fecha_update": "2010-09-04T00:00:00", "usuario_update_id": 1,
-      "stamp": "AAAAAAAAIlQ="
+      "activo": 1
     },
     {
       "row_number": 45,
       "usuario_id": 258,
-      "tipo_usuario_id": 3, "tipo_usuario_codigo": "Interno",
       "codigo": "TRABAJO\\RAREBALO",
       "apellido": "Arebalo", "nombres": "Roberto",
-      "descripcion": "",
-      "activo": 1,
-      "fecha_insert": "2010-09-04T00:00:00", "usuario_insert_id": 1,
-      "fecha_update": "2010-09-04T00:00:00", "usuario_update_id": 1,
-      "stamp": "AAAAAAAAIuA="
+      "activo": 1
     },
     {
       "row_number": 46,
       "usuario_id": 901,
-      "tipo_usuario_id": 3, "tipo_usuario_codigo": "Interno",
       "codigo": "TRABAJO\\HARISMENDI",
       "apellido": "ARISMENDI", "nombres": "HUGO",
-      "descripcion": "",
-      "activo": 1,
-      "fecha_insert": "2017-08-09T19:16:00", "usuario_insert_id": 0,
-      "fecha_update": "2017-08-09T19:16:00", "usuario_update_id": 0,
-      "stamp": "AAAAAAAAJK4="
+      "activo": 1
     },
     {
       "row_number": 47,
       "usuario_id": 106,
-      "tipo_usuario_id": 3, "tipo_usuario_codigo": "Interno",
       "codigo": "TRABAJO\\LARMOA",
       "apellido": "Armoa", "nombres": "Luisa Elba",
-      "descripcion": "",
-      "activo": 1,
-      "fecha_insert": "2010-09-04T00:00:00", "usuario_insert_id": 1,
-      "fecha_update": "2010-09-04T00:00:00", "usuario_update_id": 1,
-      "stamp": "AAAAAAAAIkg="
-    },
-    {
-      "row_number": 48,
-      "usuario_id": 429,
-      "tipo_usuario_id": 3, "tipo_usuario_codigo": "Interno",
-      "codigo": "TRABAJO\\NARREGUI",
-      "apellido": "ARREGUI", "nombres": "Nazareno Matias",
-      "descripcion": "",
-      "activo": 1,
-      "fecha_insert": "2011-11-17T13:06:00", "usuario_insert_id": 1,
-      "fecha_update": "2011-11-17T13:06:00", "usuario_update_id": 1,
-      "stamp": "AAAAAAAAI4Y="
-    },
-    {
-      "row_number": 49,
-      "usuario_id": 398,
-      "tipo_usuario_id": 3, "tipo_usuario_codigo": "Interno",
-      "codigo": "TRABAJO\\JARTEAGAVEYTIA",
-      "apellido": "ARTEAGAVEYTIA", "nombres": "Juan Ignacio",
-      "descripcion": "",
-      "activo": 1,
-      "fecha_insert": "2011-01-24T17:03:00", "usuario_insert_id": 1,
-      "fecha_update": "2011-01-24T17:03:00", "usuario_update_id": 1,
-      "stamp": "AAAAAAAAI2g="
-    },
-    {
-      "row_number": 50,
-      "usuario_id": 419,
-      "tipo_usuario_id": 3, "tipo_usuario_codigo": "Interno",
-      "codigo": "TRABAJO\\TASTORGA",
-      "apellido": "ASTORGA", "nombres": "Tatiana Denise",
-      "descripcion": "",
-      "activo": 0,
-      "fecha_insert": "2011-09-20T11:08:00", "usuario_insert_id": 281,
-      "fecha_update": "2015-07-13T10:22:00", "usuario_update_id": 611,
-      "stamp": "AAAAAAAAI30="
-    },
-    {
-      "row_number": 51,
-      "usuario_id": 978,
-      "tipo_usuario_id": 3, "tipo_usuario_codigo": "Interno",
-      "codigo": "TRABAJO\\RAYBAR",
-      "apellido": "Aybar", "nombres": "Roxana Beatriz",
-      "descripcion": "",
-      "activo": 1,
-      "fecha_insert": "2017-08-09T19:16:00", "usuario_insert_id": 0,
-      "fecha_update": "2017-08-09T19:16:00", "usuario_update_id": 0,
-      "stamp": "AAAAAAAAJPs="
-    },
-    {
-      "row_number": 52,
-      "usuario_id": 79,
-      "tipo_usuario_id": 3, "tipo_usuario_codigo": "Interno",
-      "codigo": "TRABAJO\\MESADEAYUDA",
-      "apellido": "AYUDA", "nombres": "MESADE",
-      "descripcion": "",
-      "activo": 1,
-      "fecha_insert": "2010-09-04T00:00:00", "usuario_insert_id": 1,
-      "fecha_update": "2013-06-07T19:06:00", "usuario_update_id": 419,
-      "stamp": "AAAAAAAAIi0="
-    },
-    {
-      "row_number": 53,
-      "usuario_id": 468,
-      "tipo_usuario_id": 3, "tipo_usuario_codigo": "Interno",
-      "codigo": "TRABAJO\\DAZA",
-      "apellido": "Aza", "nombres": "Daniela Cecilia",
-      "descripcion": "",
-      "activo": 1,
-      "fecha_insert": "2007-01-22T15:12:00", "usuario_insert_id": 1,
-      "fecha_update": "2016-06-08T12:58:00", "usuario_update_id": 611,
-      "stamp": "AAAAAAAAI6w="
-    },
-    {
-      "row_number": 54,
-      "usuario_id": 523,
-      "tipo_usuario_id": 3, "tipo_usuario_codigo": "Interno",
-      "codigo": "TRABAJO\\YAZARA",
-      "apellido": "AZARA", "nombres": "Yael Soledad",
-      "descripcion": "",
-      "activo": 1,
-      "fecha_insert": "2012-02-23T12:43:00", "usuario_insert_id": 101,
-      "fecha_update": "2012-05-24T11:10:00", "usuario_update_id": 281,
-      "stamp": "AAAAAAAAI+M="
-    },
-    {
-      "row_number": 55,
-      "usuario_id": 914,
-      "tipo_usuario_id": 3, "tipo_usuario_codigo": "Interno",
-      "codigo": "TRABAJO\\LAZCONZABAL",
-      "apellido": "Azconzabal", "nombres": "Lorna Claudia",
-      "descripcion": "",
-      "activo": 1,
-      "fecha_insert": "2017-08-09T19:16:00", "usuario_insert_id": 0,
-      "fecha_update": "2017-08-09T19:16:00", "usuario_update_id": 0,
-      "stamp": "AAAAAAAAJLs="
-    },
-    {
-      "row_number": 56,
-      "usuario_id": 862,
-      "tipo_usuario_id": 3, "tipo_usuario_codigo": "Interno",
-      "codigo": "TRABAJO\\DAZCUAGA",
-      "apellido": "Azcuaga", "nombres": "Dario César",
-      "descripcion": "",
-      "activo": 1,
-      "fecha_insert": "2017-08-09T19:16:00", "usuario_insert_id": 0,
-      "fecha_update": "2017-08-09T19:16:00", "usuario_update_id": 0,
-      "stamp": "AAAAAAAAJIc="
-    },
-    {
-      "row_number": 57,
-      "usuario_id": 886,
-      "tipo_usuario_id": 3, "tipo_usuario_codigo": "Interno",
-      "codigo": "TRABAJO\\GABAEZ",
-      "apellido": "Baez", "nombres": "Gustavo Adrián",
-      "descripcion": "",
-      "activo": 1,
-      "fecha_insert": "2017-08-09T19:16:00", "usuario_insert_id": 0,
-      "fecha_update": "2017-08-09T19:16:00", "usuario_update_id": 0,
-      "stamp": "AAAAAAAAJJ8="
-    },
-    {
-      "row_number": 58,
-      "usuario_id": 524,
-      "tipo_usuario_id": 3, "tipo_usuario_codigo": "Interno",
-      "codigo": "TRABAJO\\ABALZANO",
-      "apellido": "BALZANO", "nombres": "Alicia Beatriz",
-      "descripcion": "",
-      "activo": 1,
-      "fecha_insert": "2012-05-15T11:20:00", "usuario_insert_id": 281,
-      "fecha_update": "2013-06-27T11:10:00", "usuario_update_id": 419,
-      "stamp": "AAAAAAAAI+Q="
-    },
-    {
-      "row_number": 59,
-      "usuario_id": 126,
-      "tipo_usuario_id": 3, "tipo_usuario_codigo": "Interno",
-      "codigo": "TRABAJO\\PBARBAGALLO",
-      "apellido": "Barbagallo", "nombres": "Pablo",
-      "descripcion": "",
-      "activo": 1,
-      "fecha_insert": "2010-09-04T00:00:00", "usuario_insert_id": 1,
-      "fecha_update": "2010-09-04T00:00:00", "usuario_update_id": 1,
-      "stamp": "AAAAAAAAIlw="
-    },
-    {
-      "row_number": 60,
-      "usuario_id": 852,
-      "tipo_usuario_id": 3, "tipo_usuario_codigo": "Interno",
-      "codigo": "TRABAJO\\CBARBALARGA",
-      "apellido": "Barbalarga", "nombres": "Carlos Alberto",
-      "descripcion": "",
-      "activo": 1,
-      "fecha_insert": "2017-08-09T19:16:00", "usuario_insert_id": 0,
-      "fecha_update": "2017-08-09T19:16:00", "usuario_update_id": 0,
-      "stamp": "AAAAAAAAJH0="
-    },
-    {
-      "row_number": 61,
-      "usuario_id": 321,
-      "tipo_usuario_id": 3, "tipo_usuario_codigo": "Interno",
-      "codigo": "TRABAJO\\PBARBIERI",
-      "apellido": "Barbieri", "nombres": "Pablo Juan Martin",
-      "descripcion": "",
-      "activo": 1,
-      "fecha_insert": "2010-08-06T16:31:00", "usuario_insert_id": 306,
-      "fecha_update": "2014-11-25T13:08:00", "usuario_update_id": 608,
-      "stamp": "AAAAAAAAIxw="
-    },
-    {
-      "row_number": 62,
-      "usuario_id": 488,
-      "tipo_usuario_id": 3, "tipo_usuario_codigo": "Interno",
-      "codigo": "TRABAJO\\LBARLETTA",
-      "apellido": "Barletta", "nombres": "Luis Emilio (Biblioteca)",
-      "descripcion": "",
-      "activo": 1,
-      "fecha_insert": "2007-09-20T20:20:00", "usuario_insert_id": 1,
-      "fecha_update": "2007-09-20T20:20:00", "usuario_update_id": 4,
-      "stamp": "AAAAAAAAI8A="
-    },
-    {
-      "row_number": 63,
-      "usuario_id": 848,
-      "tipo_usuario_id": 3, "tipo_usuario_codigo": "Interno",
-      "codigo": "TRABAJO\\BBAROLAT",
-      "apellido": "Barolat", "nombres": "Bárbara",
-      "descripcion": "",
-      "activo": 1,
-      "fecha_insert": "2017-08-09T19:16:00", "usuario_insert_id": 0,
-      "fecha_update": "2017-08-09T19:16:00", "usuario_update_id": 0,
-      "stamp": "AAAAAAAAJHk="
-    },
-    {
-      "row_number": 64,
-      "usuario_id": 979,
-      "tipo_usuario_id": 3, "tipo_usuario_codigo": "Interno",
-      "codigo": "TRABAJO\\RBARRERA",
-      "apellido": "Barrera", "nombres": "Roxana Esther",
-      "descripcion": "",
-      "activo": 1,
-      "fecha_insert": "2017-08-09T19:16:00", "usuario_insert_id": 0,
-      "fecha_update": "2017-08-09T19:16:00", "usuario_update_id": 0,
-      "stamp": "AAAAAAAAJPw="
-    },
-    {
-      "row_number": 65,
-      "usuario_id": 530,
-      "tipo_usuario_id": 3, "tipo_usuario_codigo": "Interno",
-      "codigo": "TRABAJO\\ABARRETO",
-      "apellido": "Barreto", "nombres": "Analía Verónica",
-      "descripcion": "",
-      "activo": 1,
-      "fecha_insert": "2012-09-03T15:31:00", "usuario_insert_id": 1,
-      "fecha_update": "2012-09-03T15:31:00", "usuario_update_id": 1,
-      "stamp": "AAAAAAAAI+o="
-    },
-    {
-      "row_number": 66,
-      "usuario_id": 415,
-      "tipo_usuario_id": 3, "tipo_usuario_codigo": "Interno",
-      "codigo": "TRABAJO\\MBARROS",
-      "apellido": "BARROS", "nombres": "Marcos Julian",
-      "descripcion": "",
-      "activo": 0,
-      "fecha_insert": "2011-03-03T20:49:00", "usuario_insert_id": 280,
-      "fecha_update": "2012-08-16T10:48:00", "usuario_update_id": 183,
-      "stamp": "AAAAAAAAI3k="
-    },
-    {
-      "row_number": 67,
-      "usuario_id": 60,
-      "tipo_usuario_id": 3, "tipo_usuario_codigo": "Interno",
-      "codigo": "TRABAJO\\JMBASILA",
-      "apellido": "Basila", "nombres": "José María",
-      "descripcion": "",
-      "activo": 1,
-      "fecha_insert": "2010-09-04T00:00:00", "usuario_insert_id": 1,
-      "fecha_update": "2010-09-04T00:00:00", "usuario_update_id": 1,
-      "stamp": "AAAAAAAAIho="
-    },
-    {
-      "row_number": 68,
-      "usuario_id": 307,
-      "tipo_usuario_id": 3, "tipo_usuario_codigo": "Interno",
-      "codigo": "TRABAJO\\ABASILE",
-      "apellido": "Basile", "nombres": "Alejandro Pablo",
-      "descripcion": "",
-      "activo": 1,
-      "fecha_insert": "2010-08-06T16:23:00", "usuario_insert_id": 306,
-      "fecha_update": "2010-08-06T16:23:00", "usuario_update_id": 306,
-      "stamp": "AAAAAAAAIw4="
-    },
-    {
-      "row_number": 69,
-      "usuario_id": 511,
-      "tipo_usuario_id": 3, "tipo_usuario_codigo": "Interno",
-      "codigo": "TRABAJO\\RBEAZLEY",
-      "apellido": "Beazley", "nombres": "Rodolfo",
-      "descripcion": "",
-      "activo": 1,
-      "fecha_insert": "2007-01-10T10:21:00", "usuario_insert_id": 3,
-      "fecha_update": "2009-09-17T18:04:00", "usuario_update_id": 203,
-      "stamp": "AAAAAAAAI9c="
-    },
-    {
-      "row_number": 70,
-      "usuario_id": 441,
-      "tipo_usuario_id": 3, "tipo_usuario_codigo": "Interno",
-      "codigo": "TRABAJO\\BBEDINI",
-      "apellido": "Bedini", "nombres": "Betiana Raquel",
-      "descripcion": "",
-      "activo": 1,
-      "fecha_insert": "2011-11-17T13:06:00", "usuario_insert_id": 1,
-      "fecha_update": "2011-11-17T13:06:00", "usuario_update_id": 1,
-      "stamp": "AAAAAAAAI5I="
-    },
-    {
-      "row_number": 71,
-      "usuario_id": 143,
-      "tipo_usuario_id": 3, "tipo_usuario_codigo": "Interno",
-      "codigo": "TRABAJO\\CBEIERBACH",
-      "apellido": "Beierbach", "nombres": "Claudia Fabiana",
-      "descripcion": "",
-      "activo": 1,
-      "fecha_insert": "2010-09-04T00:00:00", "usuario_insert_id": 1,
-      "fecha_update": "2010-09-04T00:00:00", "usuario_update_id": 1,
-      "stamp": "AAAAAAAAIm0="
-    },
-    {
-      "row_number": 72,
-      "usuario_id": 853,
-      "tipo_usuario_id": 3, "tipo_usuario_codigo": "Interno",
-      "codigo": "TRABAJO\\CBELLO",
-      "apellido": "Bello", "nombres": "Carolina Ximena",
-      "descripcion": "",
-      "activo": 1,
-      "fecha_insert": "2017-08-09T19:16:00", "usuario_insert_id": 0,
-      "fecha_update": "2017-08-09T19:16:00", "usuario_update_id": 0,
-      "stamp": "AAAAAAAAJH4="
-    },
-    {
-      "row_number": 73,
-      "usuario_id": 353,
-      "tipo_usuario_id": 3, "tipo_usuario_codigo": "Interno",
-      "codigo": "TRABAJO\\EBELTRAN",
-      "apellido": "BELTRAN", "nombres": "Elvira",
-      "descripcion": "",
-      "activo": 1,
-      "fecha_insert": "2010-08-24T17:13:00", "usuario_insert_id": 1,
-      "fecha_update": "2012-09-03T13:14:00", "usuario_update_id": 183,
-      "stamp": "AAAAAAAAIzs="
-    },
-    {
-      "row_number": 74,
-      "usuario_id": 833,
-      "tipo_usuario_id": 3, "tipo_usuario_codigo": "Interno",
-      "codigo": "TRABAJO\\ABERDU",
-      "apellido": "Berdu", "nombres": "Agustín",
-      "descripcion": "",
-      "activo": 1,
-      "fecha_insert": "2017-08-09T19:16:00", "usuario_insert_id": 0,
-      "fecha_update": "2017-08-09T19:16:00", "usuario_update_id": 0,
-      "stamp": "AAAAAAAAJGo="
-    },
-    {
-      "row_number": 75,
-      "usuario_id": 589,
-      "tipo_usuario_id": 3, "tipo_usuario_codigo": "Interno",
-      "codigo": "TRABAJO\\MBERGER",
-      "apellido": "BERGER", "nombres": "Maria Elena",
-      "descripcion": "",
-      "activo": 0,
-      "fecha_insert": "2014-03-14T14:02:00", "usuario_insert_id": 368,
-      "fecha_update": "2017-05-26T11:09:00", "usuario_update_id": 611,
-      "stamp": "AAAAAAAAJCY="
-    },
-    {
-      "row_number": 76,
-      "usuario_id": 352,
-      "tipo_usuario_id": 3, "tipo_usuario_codigo": "Interno",
-      "codigo": "TRABAJO\\EBERMUDEZ",
-      "apellido": "BERMUDEZ", "nombres": "Eduardo",
-      "descripcion": "",
-      "activo": 1,
-      "fecha_insert": "2010-08-24T17:13:00", "usuario_insert_id": 1,
-      "fecha_update": "2010-08-24T17:13:00", "usuario_update_id": 1,
-      "stamp": "AAAAAAAAIzo="
-    },
-    {
-      "row_number": 77,
-      "usuario_id": 376,
-      "tipo_usuario_id": 3, "tipo_usuario_codigo": "Interno",
-      "codigo": "TRABAJO\\SBERNARDEZ",
-      "apellido": "BERNARDEZ", "nombres": "Silvia",
-      "descripcion": "",
-      "activo": 1,
-      "fecha_insert": "2010-09-10T17:17:00", "usuario_insert_id": 1,
-      "fecha_update": "2010-09-10T17:17:00", "usuario_update_id": 1,
-      "stamp": "AAAAAAAAI1I="
-    },
-    {
-      "row_number": 78,
-      "usuario_id": 580,
-      "tipo_usuario_id": 3, "tipo_usuario_codigo": "Interno",
-      "codigo": "TRABAJO\\LBERNE",
-      "apellido": "BERNE", "nombres": "Leandro Ezequiel",
-      "descripcion": "",
-      "activo": 1,
-      "fecha_insert": "2013-11-22T13:56:00", "usuario_insert_id": 419,
-      "fecha_update": "2013-12-03T17:57:00", "usuario_update_id": 419,
-      "stamp": "AAAAAAAAJB0="
-    },
-    {
-      "row_number": 79,
-      "usuario_id": 69,
-      "tipo_usuario_id": 3, "tipo_usuario_codigo": "Interno",
-      "codigo": "TRABAJO\\EBEROLA",
-      "apellido": "Berola", "nombres": "Eduardo Francisco Mariano",
-      "descripcion": "",
-      "activo": 1,
-      "fecha_insert": "2010-09-04T00:00:00", "usuario_insert_id": 1,
-      "fecha_update": "2010-09-04T00:00:00", "usuario_update_id": 1,
-      "stamp": "AAAAAAAAIiM="
-    },
-    {
-      "row_number": 80,
-      "usuario_id": 443,
-      "tipo_usuario_id": 3, "tipo_usuario_codigo": "Interno",
-      "codigo": "TRABAJO\\JOBERRIOS",
-      "apellido": "Berrios", "nombres": "Joaquin",
-      "descripcion": "",
-      "activo": 1,
-      "fecha_insert": "2011-11-17T13:06:00", "usuario_insert_id": 1,
-      "fecha_update": "2011-11-17T13:06:00", "usuario_update_id": 1,
-      "stamp": "AAAAAAAAI5M="
-    },
-    {
-      "row_number": 81,
-      "usuario_id": 534,
-      "tipo_usuario_id": 3, "tipo_usuario_codigo": "Interno",
-      "codigo": "TRABAJO\\IBIANCHINI",
-      "apellido": "Bianchini", "nombres": "Ignacio Federico",
-      "descripcion": "",
-      "activo": 1,
-      "fecha_insert": "2012-09-03T15:31:00", "usuario_insert_id": 1,
-      "fecha_update": "2012-09-03T15:31:00", "usuario_update_id": 1,
-      "stamp": "AAAAAAAAI+4="
-    },
-    {
-      "row_number": 82,
-      "usuario_id": 965,
-      "tipo_usuario_id": 3, "tipo_usuario_codigo": "Interno",
-      "codigo": "TRABAJO\\OBIANCHINI",
-      "apellido": "Bianchini", "nombres": "Oscar",
-      "descripcion": "",
-      "activo": 1,
-      "fecha_insert": "2017-08-09T19:16:00", "usuario_insert_id": 0,
-      "fecha_update": "2017-08-09T19:16:00", "usuario_update_id": 0,
-      "stamp": "AAAAAAAAJO4="
-    },
-    {
-      "row_number": 83,
-      "usuario_id": 465,
-      "tipo_usuario_id": 3, "tipo_usuario_codigo": "Interno",
-      "codigo": "TRABAJO\\CBIANCULLI",
-      "apellido": "BIANCULLI", "nombres": "Carolina Florencia",
-      "descripcion": "",
-      "activo": 1,
-      "fecha_insert": "2011-11-24T12:59:00", "usuario_insert_id": 101,
-      "fecha_update": "2014-11-27T12:49:00", "usuario_update_id": 608,
-      "stamp": "AAAAAAAAI6k="
-    },
-    {
-      "row_number": 84,
-      "usuario_id": 849,
-      "tipo_usuario_id": 3, "tipo_usuario_codigo": "Interno",
-      "codigo": "TRABAJO\\BBILBAO",
-      "apellido": "Bilbao", "nombres": "Belén",
-      "descripcion": "",
-      "activo": 1,
-      "fecha_insert": "2017-08-09T19:16:00", "usuario_insert_id": 0,
-      "fecha_update": "2017-08-09T19:16:00", "usuario_update_id": 0,
-      "stamp": "AAAAAAAAJHo="
-    },
-    {
-      "row_number": 85,
-      "usuario_id": 225,
-      "tipo_usuario_id": 3, "tipo_usuario_codigo": "Interno",
-      "codigo": "TRABAJO\\GBLANCO",
-      "apellido": "Blanco", "nombres": "Gabriela",
-      "descripcion": "",
-      "activo": 1,
-      "fecha_insert": "2010-09-04T00:00:00", "usuario_insert_id": 1,
-      "fecha_update": "2010-09-04T00:00:00", "usuario_update_id": 1,
-      "stamp": "AAAAAAAAIr8="
-    },
-    {
-      "row_number": 86,
-      "usuario_id": 253,
-      "tipo_usuario_id": 3, "tipo_usuario_codigo": "Interno",
-      "codigo": "TRABAJO\\IBLAS",
-      "apellido": "Blas de Zamora", "nombres": "Ines Emilda",
-      "descripcion": "",
-      "activo": 1,
-      "fecha_insert": "2010-09-04T00:00:00", "usuario_insert_id": 1,
-      "fecha_update": "2010-09-04T00:00:00", "usuario_update_id": 1,
-      "stamp": "AAAAAAAAIts="
-    },
-    {
-      "row_number": 87,
-      "usuario_id": 600,
-      "tipo_usuario_id": 3, "tipo_usuario_codigo": "Interno",
-      "codigo": "TRABAJO\\PBLASCETTA",
-      "apellido": "BLASCETTA", "nombres": "Pablo Gabriel",
-      "descripcion": "",
-      "activo": 1,
-      "fecha_insert": "2014-06-19T14:40:00", "usuario_insert_id": 369,
-      "fecha_update": "2017-11-22T13:11:00", "usuario_update_id": 4,
-      "stamp": "AAAAAAAAJDE="
-    },
-    {
-      "row_number": 88,
-      "usuario_id": 180,
-      "tipo_usuario_id": 3, "tipo_usuario_codigo": "Interno",
-      "codigo": "TRABAJO\\FBLOISE",
-      "apellido": "Bloise", "nombres": "Fernando Hugo Ariel",
-      "descripcion": "",
-      "activo": 1,
-      "fecha_insert": "2010-09-04T00:00:00", "usuario_insert_id": 1,
-      "fecha_update": "2014-06-17T09:36:00", "usuario_update_id": 368,
-      "stamp": "AAAAAAAAIpI="
-    },
-    {
-      "row_number": 89,
-      "usuario_id": 101,
-      "tipo_usuario_id": 3, "tipo_usuario_codigo": "Interno",
-      "codigo": "TRABAJO\\JBOGLIOLO",
-      "apellido": "Bogliolo", "nombres": "José María",
-      "descripcion": "",
-      "activo": 1,
-      "fecha_insert": "2010-09-04T00:00:00", "usuario_insert_id": 1,
-      "fecha_update": "2010-09-04T00:00:00", "usuario_update_id": 1,
-      "stamp": "AAAAAAAAIkM="
-    },
-    {
-      "row_number": 90,
-      "usuario_id": 966,
-      "tipo_usuario_id": 3, "tipo_usuario_codigo": "Interno",
-      "codigo": "TRABAJO\\OBOLTEN",
-      "apellido": "Bolten", "nombres": "Oscar",
-      "descripcion": "",
-      "activo": 1,
-      "fecha_insert": "2017-08-09T19:16:00", "usuario_insert_id": 0,
-      "fecha_update": "2017-08-09T19:16:00", "usuario_update_id": 0,
-      "stamp": "AAAAAAAAJO8="
-    },
-    {
-      "row_number": 91,
-      "usuario_id": 37,
-      "tipo_usuario_id": 3, "tipo_usuario_codigo": "Interno",
-      "codigo": "TRABAJO\\NBONAFINE",
-      "apellido": "Bonafine de Ferrari", "nombres": "Norma Marta",
-      "descripcion": "",
-      "activo": 0,
-      "fecha_insert": "2010-09-04T00:00:00", "usuario_insert_id": 1,
-      "fecha_update": "2010-09-04T00:00:00", "usuario_update_id": 1,
-      "stamp": "AAAAAAAAIgM="
-    },
-    {
-      "row_number": 92,
-      "usuario_id": 512,
-      "tipo_usuario_id": 3, "tipo_usuario_codigo": "Interno",
-      "codigo": "TRABAJO\\RBONETTO",
-      "apellido": "Bonetto", "nombres": "Rafaela",
-      "descripcion": "",
-      "activo": 1,
-      "fecha_insert": "2007-01-10T10:08:00", "usuario_insert_id": 3,
-      "fecha_update": "2014-07-04T14:25:00", "usuario_update_id": 472,
-      "stamp": "AAAAAAAAI9g="
-    },
-    {
-      "row_number": 93,
-      "usuario_id": 377,
-      "tipo_usuario_id": 3, "tipo_usuario_codigo": "Interno",
-      "codigo": "TRABAJO\\CBORASIT",
-      "apellido": "BORASIT", "nombres": "Christian",
-      "descripcion": "",
-      "activo": 1,
-      "fecha_insert": "2010-09-10T17:17:00", "usuario_insert_id": 1,
-      "fecha_update": "2011-04-27T09:30:00", "usuario_update_id": 416,
-      "stamp": "AAAAAAAAI1M="
-    },
-    {
-      "row_number": 94,
-      "usuario_id": 19,
-      "tipo_usuario_id": 3, "tipo_usuario_codigo": "Interno",
-      "codigo": "TRABAJO\\MBORDA",
-      "apellido": "Borda", "nombres": "Maria Esther",
-      "descripcion": "",
-      "activo": 1,
-      "fecha_insert": "2010-09-04T00:00:00", "usuario_insert_id": 1,
-      "fecha_update": "2010-09-04T00:00:00", "usuario_update_id": 1,
-      "stamp": "AAAAAAAAIfA="
-    },
-    {
-      "row_number": 95,
-      "usuario_id": 959,
-      "tipo_usuario_id": 3, "tipo_usuario_codigo": "Interno",
-      "codigo": "TRABAJO\\NBOSIO",
-      "apellido": "Bosio", "nombres": "Néstor Luis",
-      "descripcion": "",
-      "activo": 1,
-      "fecha_insert": "2017-08-09T19:16:00", "usuario_insert_id": 0,
-      "fecha_update": "2017-08-09T19:16:00", "usuario_update_id": 0,
-      "stamp": "AAAAAAAAJOg="
-    },
-    {
-      "row_number": 96,
-      "usuario_id": 642,
-      "tipo_usuario_id": 3, "tipo_usuario_codigo": "Interno",
-      "codigo": "TRABAJO\\JBOSSIN",
-      "apellido": "BOSSIN", "nombres": "Jorge Fernando",
-      "descripcion": "",
-      "activo": 1,
-      "fecha_insert": "2016-06-13T10:58:00", "usuario_insert_id": 610,
-      "fecha_update": "2016-06-13T10:58:00", "usuario_update_id": 610,
-      "stamp": "AAAAAAAAJFs="
-    },
-    {
-      "row_number": 97,
-      "usuario_id": 326,
-      "tipo_usuario_id": 3, "tipo_usuario_codigo": "Interno",
-      "codigo": "TRABAJO\\SBOUQUET",
-      "apellido": "BOUQUET ROLDAN", "nombres": "Santiago",
-      "descripcion": "",
-      "activo": 1,
-      "fecha_insert": "2010-08-24T17:13:00", "usuario_insert_id": 1,
-      "fecha_update": "2013-11-07T14:47:00", "usuario_update_id": 419,
-      "stamp": "AAAAAAAAIyE="
-    },
-    {
-      "row_number": 98,
-      "usuario_id": 280,
-      "tipo_usuario_id": 3, "tipo_usuario_codigo": "Interno",
-      "codigo": "TRABAJO\\PBRACAMONTE",
-      "apellido": "BRACAMONTE", "nombres": "Pablo Fabian",
-      "descripcion": "",
-      "activo": 0,
-      "fecha_insert": "2010-09-04T00:00:00", "usuario_insert_id": 1,
-      "fecha_update": "2014-01-24T08:43:00", "usuario_update_id": 472,
-      "stamp": "AAAAAAAAIvY="
-    },
-    {
-      "row_number": 99,
-      "usuario_id": 937,
-      "tipo_usuario_id": 3, "tipo_usuario_codigo": "Interno",
-      "codigo": "TRABAJO\\MEBRAVO",
-      "apellido": "Bravo", "nombres": "Matías Eusebio",
-      "descripcion": "",
-      "activo": 1,
-      "fecha_insert": "2017-08-09T19:16:00", "usuario_insert_id": 0,
-      "fecha_update": "2017-08-09T19:16:00", "usuario_update_id": 0,
-      "stamp": "AAAAAAAAJNI="
-    },
-    {
-      "row_number": 100,
-      "usuario_id": 232,
-      "tipo_usuario_id": 3, "tipo_usuario_codigo": "Interno",
-      "codigo": "TRABAJO\\ABEDRINAN",
-      "apellido": "Brediñan", "nombres": "Alfredo Manuel",
-      "descripcion": "",
-      "activo": 1,
-      "fecha_insert": "2010-09-04T00:00:00", "usuario_insert_id": 1,
-      "fecha_update": "2010-09-04T00:00:00", "usuario_update_id": 1,
-      "stamp": "AAAAAAAAIsY="
+      "activo": 1
     }
   ]
 }
